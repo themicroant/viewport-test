@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="warcraft2_summer.tsx"/>
+ <layer name="background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxTYWRgUBkiWB+JbYLGH4xYjcrmaVDBDJNBEC64sA6NzB2IdEJM3A90XOCzn5wwo0b6pLW/BiL8CYUzrdI9PfwHAGY1OqQ=
+  </data>
+ </layer>
+ <layer name="terrain" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyVlDsOwjAQRO070NDCFShoKBDQAeFXx+YjKIAaIVEiECekoYR74Ei70mRZJ6QY2Uqs55ld2w9jzONPnYNuQamNqwrnIli7IEdzTypixDhbmGe89R/+TgqHtSQvKfhzCu9M45HmV8FbRWrmgB/LqdXeC85GfK/ZPOcO9eKsnvZ3Cg+VsZo2XnP0xLw99FFjjW0+k/TgQa6ENQtKFC/YQ96DJdcwa07enibf61jvtNphRmZ9RFaZ09lff8xqEGdErHdQt8CXzIq8OrESGl/EYt4S1vLdkf5ShZdpofC0c+Uj/zAri3m9krzamZUs7gP6K+pvLKfGkv2Q9x3fJTwfU5GzT6xBhazobaj0tRXUUWqO79lB4U2sfk7aNH4B7dWbdQ==
+  </data>
+ </layer>
+</map>
