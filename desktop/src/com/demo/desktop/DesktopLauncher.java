@@ -11,6 +11,7 @@ public class DesktopLauncher {
 		config.y = 200;
 		config.width = 1440/3;
 		config.height = 2560/3;
+		// 	2,560 x 1,440 galaxy s7
 		new LwjglApplication(new ViewportTest(), config);
 	}
 }
